@@ -1,0 +1,95 @@
+body {
+  background-color: #e5e5e52a;
+}
+.logo {
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 900px;
+  font-size: 4rem;
+  font-weight: bold;
+
+  margin-top: 0px;
+}
+.title {
+  margin: 0 auto;
+  text-align: center;
+  color: #151616;
+  opacity: 20%;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 27px;
+}
+.language > span {
+  border-radius: 50px;
+  display: inline-block;
+  padding: 5px;
+}
+.language > span:hover {
+  background-color: rgba(0, 0, 0, 0.082);
+}
+.language {
+  text-align: end;
+  margin-right: 10px;
+}
+.language > span > a {
+  color: #151616;
+  text-decoration: none;
+  font-weight: bold;
+}
+.contaiiner-fluid {
+  background-image: url(/img/Union.svg);
+  background-size: cover;
+}
+.form {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form > input {
+  width: 350px;
+  height: 72px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  opacity: 30%;
+  border-radius: 5px;
+}
+.form > button {
+  background-color: orange;
+  width: 350px;
+  height: 72px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.image-message1 {
+  position: absolute;
+  top: 280px;
+  left: 1253.29px;
+}
+.cup {
+  position: absolute;
+  left: 1073px;
+  top: 439.56px;
+}
+.message2 {
+  position: absolute;
+  left: 245px;
+  top: 290px;
+}
+.tropic-img {
+  margin-top: 1px;
+}
+.watch {
+  position: absolute;
+  left: 310px;
+  top: 850px;
+}
